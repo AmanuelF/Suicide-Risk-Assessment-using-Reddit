@@ -4,7 +4,7 @@ Lexicons are built from medical knowledge sources (SNOMED-CT, ICD-10, UMLS, and 
 The dataset is composed of 500 Redditors (anonymized), their posts and domain expert annotated labels.
 
 
-**cite** contains a Tensorflow implementation for our [paper](https://arxiv.org/abs/1711.08389).  If you find this code useful in your research, please consider citing:
+Our [paper](https://dl.acm.org/doi/10.1145/3308558.3313698).  If you find this code useful in your research, please consider citing:
 
     @inproceedings{gaur2019knowledge,
     title={Knowledge-aware assessment of severity of suicide risk for early intervention},
